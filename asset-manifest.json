@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/JJSHOP/static/css/main.35a93780.chunk.css",
+    "main.js": "/JJSHOP/static/js/main.65d460e1.chunk.js",
+    "main.js.map": "/JJSHOP/static/js/main.65d460e1.chunk.js.map",
+    "runtime-main.js": "/JJSHOP/static/js/runtime-main.10988327.js",
+    "runtime-main.js.map": "/JJSHOP/static/js/runtime-main.10988327.js.map",
+    "static/css/2.a1251ad2.chunk.css": "/JJSHOP/static/css/2.a1251ad2.chunk.css",
+    "static/js/2.1d26f6f8.chunk.js": "/JJSHOP/static/js/2.1d26f6f8.chunk.js",
+    "static/js/2.1d26f6f8.chunk.js.map": "/JJSHOP/static/js/2.1d26f6f8.chunk.js.map",
+    "index.html": "/JJSHOP/index.html",
+    "precache-manifest.abe38da6c5f06b0e0ee91ef868711ce4.js": "/JJSHOP/precache-manifest.abe38da6c5f06b0e0ee91ef868711ce4.js",
+    "service-worker.js": "/JJSHOP/service-worker.js",
+    "static/css/2.a1251ad2.chunk.css.map": "/JJSHOP/static/css/2.a1251ad2.chunk.css.map",
+    "static/css/main.35a93780.chunk.css.map": "/JJSHOP/static/css/main.35a93780.chunk.css.map",
+    "static/js/2.1d26f6f8.chunk.js.LICENSE.txt": "/JJSHOP/static/js/2.1d26f6f8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.10988327.js",
+    "static/css/2.a1251ad2.chunk.css",
+    "static/js/2.1d26f6f8.chunk.js",
+    "static/css/main.35a93780.chunk.css",
+    "static/js/main.65d460e1.chunk.js"
+  ]
+}
